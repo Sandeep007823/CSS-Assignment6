@@ -13,7 +13,7 @@ body{
 .header-section{
     display: flex;
     justify-content: space-between;
-    margin-top: 60px;
+    margin-top: 45px;
 }
 .logo img{
    align-items: center;
