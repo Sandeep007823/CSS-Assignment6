@@ -90,7 +90,7 @@ button:hover{
 .grid-container{
     display:grid;
     grid-template-columns: 210px 210px;
-    grid-template-rows: 270px 270px;
+    grid-template-rows: 250px 250px;
     column-gap:20px;
     row-gap: 15px;
     margin-left: 150px;
